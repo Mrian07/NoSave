@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">NoSave</string>
+
+    <string name="enter_Number">Enter 10 digit Number</string>
+    <string name="enter_Message">Enter your message!</string>
+    <string name="take_me_to">Take me to!</string>
+    <string name="enter_Button_1">W</string>
+    <string name="enter_Button_2">W4B</string>
+
+    <string name="menu_help">Help</string>
+
+    <string name="about_head">What is NoSave?</string>
+    <string name="about_app">
+
+    \n
+        NoSave is a small tool use to message any WhatsApp or WhatsApp Business
+    user without saving his/her into your phone-book. \n\n
+
+        This was the problem which I was facing lots of time in my day, So I thought
+    why not to build a solution for this problem. There are some situations when
+    you need to communicate with a new person for some temporary need, And when
+    that work is done you don,t need that contact anymore. But a lot of time when
+    we save that contact, after the work is done normally we don,t delete it and
+    it stays there for no need. So with this app, You can save some time in
+    saving and managing your contacts. \n\n
+
+        Hope it will help you in some way \n\n
+
+        Your feedback is valuable:
+    </string>
+
+    //feedback
+    <string name="feedback_email">codeguy0098@gmail.com</string>
+
+
+    //share app
+    <string name="share_me">Share this App</string>
+    <string name="img_share">Share</string>
+
+    <string name="credit">V</string>
+</resources>
